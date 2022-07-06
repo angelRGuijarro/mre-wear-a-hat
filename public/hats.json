@@ -17,5 +17,81 @@
             "y": -0.04,
             "z": 0
         }
+    },
+    "topHat": {
+        "displayName": "Top Hat",
+        "resourceName": "tophat.glb",
+        "scale": {
+            "x": 0.017,
+            "y": 0.017,
+            "z": 0.017
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0.1,
+            "z": 0
+        }
+    },
+    "lavaHelmet": {
+        "displayName": "Lava Helmet",
+        "resourceName": "LavaHelmet.glb",
+        "scale": {
+            "x": 0.015,
+            "y": 0.015,
+            "z": 0.015
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0.15,
+            "z": 0
+        }
+    },
+    "hardHat": {
+        "displayName": "Hard Hat",
+        "resourceName": "hardhat.glb",
+        "scale": {
+            "x": 0.017,
+            "y": 0.017,
+            "z": 0.017
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0.10,
+            "z": 0
+        }
+    },
+    "wizard": {
+        "displayName": "Wizard Hat",
+        "resourceName": "wizardhat.glb",
+        "scale": {
+            "x": 0.017,
+            "y": 0.017,
+            "z": 0.017
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0.10,
+            "z": 0
+        }
     }
 }
