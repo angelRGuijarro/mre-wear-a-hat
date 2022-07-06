@@ -1,5 +1,8 @@
 FROM node:10.16-alpine
 WORKDIR /opt/mre
+ENV PORT 80
+ENV BASE_URL=https://wear-a-hat.herokuapp.com
+
 
 COPY package*.json ./
 RUN ["npm", "install", "--unsafe-perm"]
