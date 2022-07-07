@@ -93,5 +93,24 @@
             "y": 0.10,
             "z": 0
         }
+    },
+    "scarf": {
+        "displayName": "Pañuelo Rojo",
+        "resourceName": "red-scarf.glb",
+        "scale": {
+            "x": 2,
+            "y": 2,
+            "z": 2.3
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": -0.15,
+            "z": 0
+        }
     }
 }
