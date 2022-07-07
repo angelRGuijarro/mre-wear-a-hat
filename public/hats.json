@@ -1,116 +1,173 @@
 {
-    "ears": {
-        "displayName": "Bunny ears",
-        "resourceName": "rabbit.glb",
-        "scale": {
-            "x": 0.45,
-            "y": 0.45,
-            "z": 0.45
-        },
-        "rotation": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-        },
-        "position": {
-            "x": -0.08,
-            "y": -0.04,
-            "z": 0
-        }
-    },
-    "topHat": {
-        "displayName": "Top Hat",
-        "resourceName": "tophat.glb",
-        "scale": {
-            "x": 0.017,
-            "y": 0.017,
-            "z": 0.017
-        },
-        "rotation": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-        },
-        "position": {
-            "x": 0,
-            "y": 0.1,
-            "z": 0
-        }
-    },
-    "lavaHelmet": {
-        "displayName": "Lava Helmet",
-        "resourceName": "LavaHelmet.glb",
-        "scale": {
-            "x": 0.015,
-            "y": 0.015,
-            "z": 0.015
-        },
-        "rotation": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-        },
-        "position": {
-            "x": 0,
-            "y": 0.15,
-            "z": 0
-        }
-    },
-    "hardHat": {
-        "displayName": "Hard Hat",
-        "resourceName": "hardhat.glb",
-        "scale": {
-            "x": 0.017,
-            "y": 0.017,
-            "z": 0.017
-        },
-        "rotation": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-        },
-        "position": {
-            "x": 0,
-            "y": 0.10,
-            "z": 0
-        }
-    },
-    "wizard": {
-        "displayName": "Wizard Hat",
-        "resourceName": "wizardhat.glb",
-        "scale": {
-            "x": 0.017,
-            "y": 0.017,
-            "z": 0.017
-        },
-        "rotation": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-        },
-        "position": {
-            "x": 0,
-            "y": 0.10,
-            "z": 0
-        }
-    },
-    "scarf": {
-        "displayName": "Pañuelo Rojo",
-        "resourceName": "red-scarf.glb",
-        "scale": {
-            "x": 2,
-            "y": 2,
-            "z": 2.3
-        },
-        "rotation": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-        },
-        "position": {
-            "x": 0,
-            "y": -0.15,
-            "z": 0
-        }
-    }
+	"ears": {
+		"displayName": "Bunny ears",
+		"resourceName": "rabbit.glb",
+		"scale": {
+			"x": 0.45,
+			"y": 0.45,
+			"z": 0.45
+		},
+		"rotation": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		},
+		"position": {
+			"x": -0.08,
+			"y": -0.04,
+			"z": 0
+		}
+	},
+	"topHat": {
+		"displayName": "Top Hat",
+		"resourceName": "tophat.glb",
+		"scale": {
+			"x": 0.017,
+			"y": 0.017,
+			"z": 0.017
+		},
+		"rotation": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		},
+		"position": {
+			"x": 0,
+			"y": 0.1,
+			"z": 0
+		}
+	},
+	"lavaHelmet": {
+		"displayName": "Lava Helmet",
+		"resourceName": "LavaHelmet.glb",
+		"scale": {
+			"x": 0.015,
+			"y": 0.015,
+			"z": 0.015
+		},
+		"rotation": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		},
+		"position": {
+			"x": 0,
+			"y": 0.15,
+			"z": 0
+		}
+	},
+	"hardHat": {
+		"displayName": "Hard Hat",
+		"resourceName": "hardhat.glb",
+		"scale": {
+			"x": 0.017,
+			"y": 0.017,
+			"z": 0.017
+		},
+		"rotation": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		},
+		"position": {
+			"x": 0,
+			"y": 0.10,
+			"z": 0
+		}
+	},
+	"wizard": {
+		"displayName": "Wizard Hat",
+		"resourceName": "wizardhat.glb",
+		"scale": {
+			"x": 0.017,
+			"y": 0.017,
+			"z": 0.017
+		},
+		"rotation": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		},
+		"position": {
+			"x": 0,
+			"y": 0.10,
+			"z": 0
+		}
+	},
+	"scarf": {
+		"displayName": "Pañuelo Rojo",
+		"resourceName": "red-scarf.glb",
+		"scale": {
+			"x": 2,
+			"y": 2,
+			"z": 2.3
+		},
+		"rotation": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		},
+		"position": {
+			"x": 0,
+			"y": -0.15,
+			"z": 0
+		}
+	},
+	"horns": {
+		"displayName": "Cuernos",
+		"resourceName": "horns-black.glb",
+		"scale": {
+			"x": 8.5,
+			"y": 8.5,
+			"z": 8.5
+		},
+		"rotation": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		},
+		"position": {
+			"x": 0,
+			"y": 0.1,
+			"z": 0.04
+		}
+	},
+	"horns-p": {
+		"displayName": "Cuernos blancos",
+		"resourceName": "horns.glb",
+		"scale": {
+			"x": 1.2,
+			"y": 1.2,
+			"z": 1.2
+		},
+		"rotation": {
+			"x": 30,
+			"y": 0,
+			"z": 0
+		},
+		"position": {
+			"x": 0,
+			"y": 0.1,
+			"z": 0.07
+		}
+	},
+	"horns3d": {
+		"displayName": "Cuernos gastados",
+		"resourceName": "horns-painted.glb",
+		"scale": {
+			"x": 1.15,
+			"y": 1.15,
+			"z": 1.15
+		},
+		"rotation": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		},
+		"position": {
+			"x": 0,
+			"y": 0.2,
+			"z": -0.2
+		}
+	}
 }
